@@ -1,0 +1,54 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.container_1 {
+    text-align: center;
+    border: 2px solid red;
+    width: 46%;
+    height: 35em;
+    background: linear-gradient(45deg, #FC7D7B , #8E78FF);
+    display: table-cell;
+    vertical-align: middle;
+}
+.email {
+    height: 3em;
+    width: 18em;
+    margin-bottom: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #bad6ee;
+}
+.pass {
+    height: 3em;
+    width: 18em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #bad6ee;
+}
+input {
+    padding-left: 3em;
+}
+.btn {
+    width: 12em;
+    height: 3em;
+    background-color: #3e372ead;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 3em;
+    font-size: 18px;
+}
+em {
+    padding-left: 2em;
+}
+a {
+    text-decoration: none;
+}
+.firstimg {
+    padding-bottom: 19px;
+}
+.twoimg{
+    font-size: -56px;
+}
